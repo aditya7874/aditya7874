@@ -6,6 +6,7 @@ My name is Aditya Gedela graduated from IIIT Sricity in 2019 and I'm an Associat
 [![Stack Overflow Badge](https://img.shields.io/badge/-c14438?style=social&logo=Stackoverflow&logoColor=red&link=https://stackoverflow.com/users/6914888/aditya)](https://stackoverflow.com/users/6914888/aditya)
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:aditya.g15@iiits.in)](mailto::aditya.g15@iiits.in)
 [![Instagram Badge](https://img.shields.io/badge/-blue?style=social&logo=Instagram&logoColor=black&link=https://www.instagram.com/gedelaaditya/)](https://www.instagram.com/gedelaaditya/)
+[![Hackerrank Badge](https://img.shields.io/badge/-blue?style=social&logo=Hackerrank&logoColor=black&link=https://www.hackerrank.com/aditya7874)](https://www.hackerrank.com/aditya7874)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
