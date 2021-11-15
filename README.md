@@ -18,6 +18,9 @@ My name is Aditya Gedela graduated from IIIT Sricity in 2019 and I'm an Associat
 Conference - ICVGIP 2018 at IIIT Hyderabad
 https://www.researchgate.net/publication/331987453_Activity_Recognition_in_Egocentric_Videos_Using_Bag_of_Key_Action_Units
 
+## Resume
+Link : https://github.com/aditya7874/aditya7874/blob/main/Aditya_Resume_2021.pdf
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/aditya7874/aditya7874">
