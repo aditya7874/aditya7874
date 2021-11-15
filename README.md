@@ -7,7 +7,7 @@ My name is Aditya Gedela and I'm an Associate Data Scientist. My areas of intere
 
 <!-- Icons -->
 
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]:https://github.com/aditya7874/aditya7874/blob/main/linkedin%20icon.png
 
 <!-- Links to your social media accounts -->
 
