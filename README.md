@@ -1,6 +1,6 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Aditya Gedela and I'm an Associate Data Scientist. My areas of interest include Image Processing, Computer Vision, NLP. I'm from Vishakapatnam(Vizag) and currently working at EntropikTech, Chennai.
+My name is Aditya Gedela graduated from IIIT Sricity in 2019 and I'm an Associate Data Scientist. My areas of interest include Image Processing, Computer Vision, NLP. I'm from Vishakapatnam(Vizag) and currently working at EntropikTech, Chennai.
 
 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/aditya-gedela-3324ba110/)](https://www.linkedin.com/in/aditya-gedela-3324ba110/)
 [![Stack Overflow Badge](https://img.shields.io/badge/-c14438?style=social&logo=Stackoverflow&logoColor=red&link=https://stackoverflow.com/users/6914888/aditya)](https://stackoverflow.com/users/6914888/aditya)
