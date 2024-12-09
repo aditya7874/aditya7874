@@ -1,10 +1,11 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Aditya Gedela from Vishakapatnam(Vizag) and I'm a Data Scientist. My areas of interest include Computer Vision, Natural Language Proccessing and Machine Learning. I'm currently working at Entropik, Chennai.
+My name is Aditya Gedela from Vishakapatnam(Vizag) and I'm a Data Scientist. My areas of interest include Computer Vision, Natural Language Proccessing, Machine Learning and Deep Learning.
 
 ## Experience :man_office_worker:
-Total experience - 4.5 years <br>
-Data Scientist at Entropik, Abu Dhabi - 1 year <br>
+Total experience - 5 years <br>
+Data Scientist at Entropik, Chennai - 0.5 year <br>
+Data Scientist at Entropik, Abu Dhabi - 1.2 year <br>
 Associate Data Scientist at Entropik, Chennai - 1.5 years <br>
 Data Scientist(NLP) at Stride.ai, Bengaluru - 1.5 years <br>
 Data Scientist at Merak.ai, Bengaluru - 0.5 years
@@ -35,7 +36,7 @@ Conference - ICVGIP 2018 at IIIT Hyderabad
 https://www.researchgate.net/publication/331987453_Activity_Recognition_in_Egocentric_Videos_Using_Bag_of_Key_Action_Units
 
 ## Resume
-https://github.com/aditya7874/aditya7874/blob/main/Aditya_Resume_2021.pdf
+https://github.com/aditya7874/aditya7874/blob/main/Aditya_Resume.pdf
 
 ## &#x1f4c8; GitHub Stats
 
