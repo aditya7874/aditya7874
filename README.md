@@ -36,7 +36,7 @@ Conference - ICVGIP 2018 at IIIT Hyderabad
 https://www.researchgate.net/publication/331987453_Activity_Recognition_in_Egocentric_Videos_Using_Bag_of_Key_Action_Units
 
 ## Resume
-https://github.com/aditya7874/aditya7874/blob/main/Aditya_Resume.pdf
+https://github.com/aditya7874/aditya7874/blob/main/Aditya_Resume_new.pdf
 
 ## &#x1f4c8; GitHub Stats
 
