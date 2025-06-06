@@ -1,12 +1,11 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Aditya Gedela from Vishakapatnam(Vizag) and I'm a Data Scientist. My areas of interest include Computer Vision, Natural Language Proccessing, Machine Learning and Deep Learning.
+My name is Aditya Gedela from Vishakapatnam(Vizag) and I'm a Data Science Professional. My areas of interest include Computer Vision, Natural Language Processing, Machine Learning, and Deep Learning.
 
 ## Experience :man_office_worker:
-Total experience - 5 years <br>
-Data Scientist at Entropik, Chennai - 0.5 year <br>
-Data Scientist at Entropik, Abu Dhabi - 1.2 year <br>
-Associate Data Scientist at Entropik, Chennai - 1.5 years <br>
+Total experience - 6 years <br>
+Senior Data Scientist at GHD(Remote) - 6 months (Current) <br>
+Data Scientist at Entropik, Chennai - 3 year <br>
 Data Scientist(NLP) at Stride.ai, Bengaluru - 1.5 years <br>
 Data Scientist at Merak.ai, Bengaluru - 0.5 years
 
