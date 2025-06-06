@@ -1,20 +1,31 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Aditya Gedela from Vishakapatnam(Vizag) and I'm a Data Science Professional. My areas of interest include Computer Vision, Natural Language Processing, Machine Learning, and Deep Learning.
+I'm **Aditya Gedela**, a Data Science professional from Vishakapatnam (Vizag), India. I specialize in **Computer Vision**, **Natural Language Processing**, **Machine Learning**, and **Deep Learning**.
 
-## Experience :man_office_worker:
-Total experience - 6 years <br>
-Senior Data Scientist at GHD(Remote) - 6 months (Current) <br>
-Data Scientist at Entropik, Chennai - 3 year <br>
-Data Scientist(NLP) at Stride.ai, Bengaluru - 1.5 years <br>
-Data Scientist at Merak.ai, Bengaluru - 0.5 years
+[![](https://img.shields.io/badge/Data_Science-Expert-blue)]() [![](https://img.shields.io/badge/NLP-%F0%9F%93%9A-informative)]() [![](https://img.shields.io/badge/Computer_Vision-%F0%9F%8E%A8-creative)]()
 
-## Education :book:
-Birla Institute of Technology And Science, Pilani - Nov 2023 <br>
-M.Tech in Data Science & Engineering (WILP) - CGPA: 8.1
+## 💼 Experience
+**Senior Data Scientist** – GHD (Remote) _(Current, 6 months)_  
+- Working on RAG pipelines using various LLM models.
 
-Indian Institute of Information Technology, Sricity, Chittoor - May 2019 <br>
-B.Tech in ECE (Hons in Computer Vision) - CGPA: 8.53
+**Data Scientist** – Entropik, Chennai/AbuDhabi(Onsite) _(3 years)_  
+- Developed emotion recognition models for video intelligence.
+- Built NLP models for user sentiment classification.
+- Designed NER models and chatbots for banking/finance.
+  
+**Data Scientist (NLP)** – Stride.ai, Bengaluru _(1.5 years)_  
+- Streamlined text classification pipelines.
+
+**Data Scientist** – Merak.ai, Bengaluru _(0.5 years)_  
+- Built PoCs on OCR and tabular data extraction.
+
+## 🎓 Education
+**M.Tech in Data Science & Engineering** – BITS Pilani (WILP) _(Nov 2023)_  
+- CGPA: 8.1  
+
+**B.Tech in ECE (Hons. in Computer Vision)** – IIIT Sricity _(May 2019)_  
+- CGPA: 8.53  
+- Honors: Research on First Person Video Classification.
 
 ## Social Profile
 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/aditya-gedela-3324ba110/)](https://www.linkedin.com/in/aditya-gedela-3324ba110/)
